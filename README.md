@@ -1,4 +1,7 @@
-### Hi there 👋
+### ABOUT ME
+⛈  Junior Dev & Hobbyist Artist
+🌙 I love to make web pages
+
 
 <!--
 **paw/paw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
