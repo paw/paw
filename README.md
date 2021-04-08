@@ -1,6 +1,8 @@
 ### ABOUT ME
-- ⛈  Junior Dev & Hobbyist Artist
-- 🌙 I love to make web pages
+
+⛈  Junior Dev & Hobbyist Artist
+
+🌙 I love to make web pages
 
 
 <!--
