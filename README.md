@@ -1,8 +1,10 @@
-### ABOUT ME
+## ABOUT ME
 
 ⛈  Junior Dev & Hobbyist Artist\
 🌙 I love to make web pages
 
+### CERTS
+* [FreeCodeCamp's Responsive Web Design (Apr. 2021)](https://www.freecodecamp.org/certification/snarl/responsive-web-design)
 
 <!--
 **paw/paw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
