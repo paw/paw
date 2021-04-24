@@ -4,7 +4,7 @@
 🌙 I love to make web pages
 
 ### CERTS
-* [FreeCodeCamp's Responsive Web Design (Apr. 2021)](https://www.freecodecamp.org/certification/snarl/responsive-web-design)
+* [FCC's Responsive Web Design Cert](https://www.freecodecamp.org/certification/snarl/responsive-web-design) (Apr. 2021)
 
 <!--
 **paw/paw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
