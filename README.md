@@ -1,9 +1,12 @@
 ## ABOUT ME
 
 ⛈  Junior Dev & Hobbyist Artist\
-🌙 I love to make web pages
+🌙 I love to make web pages and userstyles
 
-### CERTS
+\
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R79JIO)
+
+## CERTS
 * [FCC's Responsive Web Design Cert](https://www.freecodecamp.org/certification/snarl/responsive-web-design) (Apr. 2021)
 
 <!--
