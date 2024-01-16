@@ -1,10 +1,8 @@
 ## ABOUT ME
 
-⛈  Junior Dev & Hobbyist Artist\
-🌙 I love to make web pages and userstyles
-
-\
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R79JIO)
+🐺 CS Student & Hobbyist Artist\
+🕸 I like to make web pages and userstyles.\
+👻 [Art](https://art.snarly.net) &bull; [F2U Stuff](https://dead.rip/downloads) &bull; [Codepen](https://codepen.io/snarl) &bull; [Glitch](https://glitch.com/@moon) &bull; [Ko-fi](https://ko-fi.com/snarl)
 
 ## CERTS
 * [FCC's Responsive Web Design Cert](https://www.freecodecamp.org/certification/snarl/responsive-web-design) (Apr. 2021)
