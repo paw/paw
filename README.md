@@ -1,8 +1,8 @@
 ## ABOUT ME
 
 🐺 CS Student & Hobbyist Artist\
-🕸 I like to make web pages and userstyles.\
-👻 [Portfolio](https://briar.dev/) &bull; [Personal Site](https://snarly.net) &bull; [Art](https://art.snarly.net) &bull; [F2U Stuff](https://dead.rip/downloads) &bull; [Codepen](https://codepen.io/snarl) &bull; [Glitch](https://glitch.com/@briar) &bull; [Ko-fi](https://ko-fi.com/snarl)
+🕸 I like to create software, websites, and userstyles.\
+👻 [Portfolio](https://briar.dev/) &bull; [Personal Site](https://snarly.net) &bull; [Art](https://art.snarly.net) &bull; [F2U Stuff](https://snarly.net/downloads) &bull; [Codepen](https://codepen.io/snarl) &bull; [Ko-fi](https://ko-fi.com/snarl)
 
 ## CERTS
 * [FCC's Responsive Web Design Cert](https://www.freecodecamp.org/certification/snarl/responsive-web-design) (Apr. 2021)
